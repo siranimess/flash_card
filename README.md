@@ -53,9 +53,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='YOUR-GIF-LINK-HERE' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with **ScreenToGif**
+<div>
+    <a href="https://www.loom.com/share/1c01f25c3c7c43888ea68a221b74937f">
+    </a>
+    <a href="https://www.loom.com/share/1c01f25c3c7c43888ea68a221b74937f">
+      <img style="max-width:300px;" src="https://www.loom.com/v1/videos/1c01f25c3c7c43888ea68a221b74937f/thumbnail.gif">
+    </a>
+  </div>
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
